@@ -10,7 +10,4 @@ For `n = 4`, the output of the program is:
 
 ## Output
 
-$ $ $ $
-$     $
-$     $
-$ $ $ $
+![alt text](image.png)

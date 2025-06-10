@@ -11,9 +11,6 @@ For `n = 4`, the output of the program is:
 ## Output
 
 $ $ $ $
-
 $     $
-
 $     $
-
 $ $ $ $
